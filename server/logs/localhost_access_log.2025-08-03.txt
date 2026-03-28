@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [03/Aug/2025:00:26:52 +0530] "GET /style2/Designations.jsp HTTP/1.1" 200 12953
+0:0:0:0:0:0:0:1 - - [03/Aug/2025:00:26:52 +0530] "GET /style2/css/styles.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Aug/2025:00:26:53 +0530] "GET /style2/Designations.jsp HTTP/1.1" 200 12953
+0:0:0:0:0:0:0:1 - - [03/Aug/2025:00:26:54 +0530] "GET /favicon.ico HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Aug/2025:00:27:02 +0530] "GET /style2/AddDesignations.jsp HTTP/1.1" 404 750

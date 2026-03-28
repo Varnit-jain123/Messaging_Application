@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [15/Aug/2025:09:21:48 +0530] "GET /style2 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Aug/2025:09:21:48 +0530] "GET /style2/ HTTP/1.1" 200 2014
+0:0:0:0:0:0:0:1 - - [15/Aug/2025:09:21:49 +0530] "GET /style2/css/styles.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Aug/2025:09:21:58 +0530] "POST /style2/Login.jsp HTTP/1.1" 200 1687
+0:0:0:0:0:0:0:1 - - [15/Aug/2025:09:21:58 +0530] "GET /style2/images/user.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Aug/2025:09:22:00 +0530] "GET /style2/Designations.jsp HTTP/1.1" 500 2655
+0:0:0:0:0:0:0:1 - - [15/Aug/2025:09:24:25 +0530] "GET /style2/Designations.jsp HTTP/1.1" 200 14976
+0:0:0:0:0:0:0:1 - - [15/Aug/2025:09:24:52 +0530] "GET /style2/Designations.jsp HTTP/1.1" 200 2509
+0:0:0:0:0:0:0:1 - - [15/Aug/2025:09:24:56 +0530] "GET /style2/Designations.jsp HTTP/1.1" 200 2509
+0:0:0:0:0:0:0:1 - - [15/Aug/2025:09:24:57 +0530] "GET /style2/Designations.jsp HTTP/1.1" 200 14976
+0:0:0:0:0:0:0:1 - - [15/Aug/2025:09:25:59 +0530] "GET /style2/DesignationAddForm.jsp HTTP/1.1" 200 2638
+0:0:0:0:0:0:0:1 - - [15/Aug/2025:09:25:59 +0530] "GET /style2/js/DesignationAddForm.js HTTP/1.1" 304 -

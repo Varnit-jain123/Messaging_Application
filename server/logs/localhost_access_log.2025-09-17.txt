@@ -1,0 +1,5 @@
+127.0.0.1 - - [17/Sep/2025:12:29:53 +0530] "GET /style4_basics HTTP/1.1" 302 -
+127.0.0.1 - - [17/Sep/2025:12:29:53 +0530] "GET /style4_basics/ HTTP/1.1" 304 -
+127.0.0.1 - - [17/Sep/2025:12:29:56 +0530] "GET /style4_basics/eg1.html HTTP/1.1" 200 1687
+127.0.0.1 - - [17/Sep/2025:12:29:58 +0530] "GET /style4_basics/servletOne HTTP/1.1" 200 369
+0:0:0:0:0:0:0:1 - - [17/Sep/2025:12:31:34 +0530] "GET /style4_basics/servletOne HTTP/1.1" 200 369
