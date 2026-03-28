@@ -1,0 +1,1 @@
+# java -classpath "..\..\..\server\lib\*;..\lib\*;..\..\..\gson\*;..\common;." MSBClient 
